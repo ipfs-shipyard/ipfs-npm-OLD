@@ -1,0 +1,25 @@
+{
+  "name": "ipfs-npm",
+  "version": "0.0.0",
+  "description": "npm on IPFS",
+  "main": "main.js",
+  "bin": {
+    "inpm": "bin/main.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matt Bell <mappum@ipfs.io>",
+  "license": "MIT",
+  "dependencies": {
+    "comandante": "^0.0.1",
+    "concat-stream": "^1.5.0",
+    "ipfs-api": "^2.3.2",
+    "ipfsd-ctl": "^0.5.0",
+    "minimist": "^1.2.0",
+    "mkdirp": "^0.5.1",
+    "subcomandante": "^1.0.3",
+    "tar": "^2.2.1",
+    "watt": "^1.0.0"
+  }
+}
