@@ -1,6 +1,6 @@
 {
   "name": "ipfs-npm",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "npm on IPFS",
   "main": "main.js",
   "bin": {
