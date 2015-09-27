@@ -1,4 +1,4 @@
-#!/usr/bin/env node --harmony
+#!/usr/bin/env node
 
 var args = require('minimist')(process.argv)
 var path = require('path')
@@ -9,5 +9,6 @@ process.env.INPM_PATH = INPM_PATH
 var inpm = require('../lib/inpm.js')(INPM_PATH)
 
 inpm.install(path.resolve('.'), function (err, res) {
-  console.log(err, err.stack)
+  if (err) return console.error(err.stack)
+  console.log('Installed successfully')
 })

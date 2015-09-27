@@ -1,6 +1,6 @@
 {
   "name": "ipfs-npm",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "npm on IPFS",
   "main": "main.js",
   "bin": {
@@ -12,8 +12,9 @@
   "author": "Matt Bell <mappum@ipfs.io>",
   "license": "MIT",
   "dependencies": {
+    "concat-stream": "^1.5.0",
     "ipfs-api": "^2.3.2",
-    "ipfsd-ctl": "^0.5.0",
+    "ipfsd-ctl": "^0.5.1",
     "minimist": "^1.2.0",
     "mkdirp": "^0.5.1",
     "request": "^2.63.0",
@@ -22,5 +23,20 @@
     "subcomandante": "^1.0.3",
     "tar": "^2.2.1",
     "watt": "^2.0.0"
+  },
+  "ipfs": {
+    "dependencies": {
+      "concat-stream": "/ipfs/QmTFDRRgc3dB45rsXwFekdKzF7YucqvojvxWCgWFFtP3Yi",
+      "ipfs-api": "/ipfs/QmfAAAu81fchdJR2EpLxNfyrnozxNNoLkoWzG3NvM2qE1v",
+      "ipfsd-ctl": "/ipfs/QmNrtxEZDK5Apf54FhDXWnFwnd98JDh1Wt6nz5y1Pudxy9",
+      "minimist": "/ipfs/QmbmjnDb9sAFnsgXPxgDAtyA7w38PuAAhCTWc8swdpggwC",
+      "mkdirp": "/ipfs/QmWMHsKgGURefB2kC6iGAd3pcKSEvadSxnXtoNNMijcRX5",
+      "request": "/ipfs/Qme1b6kTvQe2sR9W6ichk85ZbqV5NSA8XuBiyCbJBg7kPr",
+      "rimraf": "/ipfs/QmQ5U1uYymFkqcPzXuLd5M7izjemicgy2fChtSU3RVWMJE",
+      "semver": "/ipfs/QmR5QwxSLH5Ro3NwfFqHn1K1RZtmjsFfHEvNKmCTcypgGz",
+      "subcomandante": "/ipfs/QmPSmotHW47ECeh3gxdpACv7VAs5RHNqB9kugdrmKDqQDX",
+      "tar": "/ipfs/QmUQTz9jwiHAekk4X6fKw6zYqHHSNzgtfA6bneR43FJm9M",
+      "watt": "/ipfs/QmUgbinQiPDw9Zi8nhuUCcHr1EBEdFpoDrxvM92Yixs512"
+    }
   }
 }
