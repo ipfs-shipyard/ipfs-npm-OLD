@@ -27,18 +27,18 @@
   },
   "ipfs": {
     "dependencies": {
-      "colors": "/ipfs/QmXGYMRouXoTNRXUtHJKGNKabq8s9FNUigU8kRPhtGQiWs",
-      "concat-stream": "/ipfs/QmaTVeKJznxRLfK2YmR7mc6znyFXyaHHXqpedJSiAgj3Ym",
-      "ipfs-api": "/ipfs/QmQk27RTAzpFHLWYy6LvAxLfBjXZq2B6XFMVadLyH7SNw7",
-      "ipfsd-ctl": "/ipfs/QmTWeataEA9CzitAa3ShcSsSZyTSdXFWPdrJUfEya7tuBh",
+      "concat-stream": "/ipfs/QmbhjvfvGhTT1ZVRnfRdh6EuJWfjGDscsfTgzjbSHSBFGp",
       "minimist": "/ipfs/QmbmjnDb9sAFnsgXPxgDAtyA7w38PuAAhCTWc8swdpggwC",
+      "colors": "/ipfs/QmXGYMRouXoTNRXUtHJKGNKabq8s9FNUigU8kRPhtGQiWs",
+      "ipfsd-ctl": "/ipfs/QmSR69763zgv4YxhceJd6jFE73KHBaTQJH2EUHzMuuYWZ6",
+      "ipfs-api": "/ipfs/QmXDkWxQzjmQw7Lsk4ZVEwQTkrzNQ3JCB2gnutEfpHZzJr",
       "mkdirp": "/ipfs/QmTphhzzYm4d3Tn8f9UcfDEM2zZH6P3QB4jBxFjQENpbbw",
-      "request": "/ipfs/QmUmrux5MGueZVpArDuHMcnEbSbYBuaRAXpX2TtXXtsdKW",
-      "rimraf": "/ipfs/QmaUVUR8ur8qLhxRUUyYjMJsDSaN9mMHufGSdZX456xmii",
+      "rimraf": "/ipfs/QmXhBNiCSagDMtHQr1qFWeGR5hk3ctVgg2Hi5nbsAD5f1i",
+      "subcomandante": "/ipfs/QmctyeYfQ5NKu8wkC3f9UYKZCwE4C7sDaYdGAK56tgXnHK",
       "semver": "/ipfs/QmR5QwxSLH5Ro3NwfFqHn1K1RZtmjsFfHEvNKmCTcypgGz",
-      "subcomandante": "/ipfs/QmRMfWEUA9FvD7iprK8MaMd53ryJi3WCiZ45yQjiVn4Rep",
-      "tar": "/ipfs/QmeLdfWJHkUFLJxLp6QKsgTnXaaKtAtCpnaorFYdtivKAp",
-      "watt": "/ipfs/QmUgbinQiPDw9Zi8nhuUCcHr1EBEdFpoDrxvM92Yixs512"
+      "request": "/ipfs/QmczgjDpuChQGyEj5xUgWwjdYLguQ9WPGsVeXndh7Gj5vv",
+      "tar": "/ipfs/QmTCWANpg5Z2kiFbmu7TYvsgJP7bqQFafMzmbAN3DSiL4T",
+      "watt": "/ipfs/Qmck6Wk9xodLv191qVVrmAZ1cUjpDVkezJxgb7ENJfPq36"
     }
   }
 }
