@@ -23,7 +23,7 @@
     "semver": "^5.0.3",
     "subcomandante": "^1.0.3",
     "tar": "^2.2.1",
-    "watt": "^2.0.0"
+    "watt": "^2.1.0"
   },
   "ipfs": {
     "dependencies": {
