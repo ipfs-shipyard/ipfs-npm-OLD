@@ -14,6 +14,7 @@
   "dependencies": {
     "colors": "^1.1.2",
     "concat-stream": "^1.5.0",
+    "fs-extra": "^0.24.0",
     "ipfs-api": "^2.4.0",
     "ipfsd-ctl": "^0.5.1",
     "minimist": "^1.2.0",
@@ -22,7 +23,7 @@
     "rimraf": "^2.4.3",
     "semver": "^5.0.3",
     "subcomandante": "^1.0.3",
-    "tar": "^2.2.1",
+    "tar-fs": "^1.8.1",
     "watt": "^2.1.0"
   },
   "ipfs": {
@@ -37,7 +38,6 @@
       "subcomandante": "/ipfs/QmctyeYfQ5NKu8wkC3f9UYKZCwE4C7sDaYdGAK56tgXnHK",
       "semver": "/ipfs/QmR5QwxSLH5Ro3NwfFqHn1K1RZtmjsFfHEvNKmCTcypgGz",
       "request": "/ipfs/QmczgjDpuChQGyEj5xUgWwjdYLguQ9WPGsVeXndh7Gj5vv",
-      "tar": "/ipfs/QmTCWANpg5Z2kiFbmu7TYvsgJP7bqQFafMzmbAN3DSiL4T",
       "watt": "/ipfs/Qmck6Wk9xodLv191qVVrmAZ1cUjpDVkezJxgb7ENJfPq36"
     }
   }
